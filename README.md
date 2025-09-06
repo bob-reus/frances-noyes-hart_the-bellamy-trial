@@ -1,6 +1,6 @@
 Note: This ebook has been released, and therefore this repository has been archived. Please visit [https://github.com/standardebooks/frances-noyes-hart_the-bellamy-trial](https://github.com/standardebooks/frances-noyes-hart_the-bellamy-trial) for the current repository.
 
-# Edgar Saltus - The Monster
+# Frances Noyes Hart - The Bellamy Trial
 
 ## Synopsis
 
